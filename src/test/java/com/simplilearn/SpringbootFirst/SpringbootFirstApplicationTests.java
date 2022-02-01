@@ -16,6 +16,7 @@ class SpringbootFirstApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test case executing...");
+		logger.info("2 Test case executing...");
 		assertEquals(true,true);
 	}
 
